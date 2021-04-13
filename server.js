@@ -7,7 +7,7 @@ const routes = require('./src/routes')
 
 const app = express();
 
-mongoose.connect('',{
+mongoose.connect('mongodb+srv://lojamix:l0j4m1x@crm.dnn1f.mongodb.net/test',{
 useUnifiedTopology:true,
 useNewUrlParser:true,
 useFindAndModify:false

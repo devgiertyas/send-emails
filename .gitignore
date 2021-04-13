@@ -1,3 +1,4 @@
 node_modules
 path to npmrc folder
 sendgrid.env
+.vercel
